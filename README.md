@@ -25,6 +25,15 @@
    ![There are not posts](/screenshots/screenshot_1.png)
    ![All posts](/screenshots/screenshot_2.png)
 
+   На главной странице у каждого объявления есть также:
+ 
+    - ссылки для добавления комментариев (Leave comment) и (Add tag) тегов к нему
+    
+    ![Leave comment](/screenshots/screenshot_6.png)
+    ![Add tag](/screenshots/screenshot_7.png)
+ 
+    - статистика для данного объявления: сколько у него тегов и комментариев
+
  2. В меню есть поле для поиска определенного объявления по его ID:
    
    ![Search field](/screenshots/screenshot_3.png)
@@ -34,11 +43,3 @@
  
    ![Get post by id](/screenshots/screenshot_5.png)
  
- 4. На главной странице у каждого объявления есть также:
- 
-    - ссылки для добавления комментариев (Leave comment) и (Add tag) тегов к нему
-    
-    ![Leave comment](/screenshots/screenshot_6.png)
-    ![Add tag](/screenshots/screenshot_7.png)
- 
-    - статистика для данного объявления: сколько у него тегов и комментариев
